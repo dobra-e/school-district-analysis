@@ -1,3 +1,3 @@
 # School Distric Analysis
 
-[Jupyter Notebook File](/Student_Data_Challenge.ipynb)
+[Analysis in Jupyter Notebook](/Student_Data_Challenge.ipynb)
